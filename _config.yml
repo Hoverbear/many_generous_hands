@@ -11,7 +11,7 @@ title:            'Many Generous Hands'
 tagline:          'Connecting Victoria area service providers together.'
 description:      '<span>Information</span> <span>Sharing,</span> <span>Relationship</span> <span>Building</span>'
 url:              http://hoverbear.github.io/many_generous_hands
-baseurl:          /
+baseurl:          /many_generous_hands
 
 author:
   name:           'Della Preston'
