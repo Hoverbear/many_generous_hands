@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'Many Generous Hands'
+tagline:          'Connecting Victoria area service providers together.'
+description:      '<span>Information</span> <span>Sharing,</span> <span>Relationship</span> <span>Building</span>'
+url:              http://hoverbear.github.io/many_generous_hands
+baseurl:          /
+
+author:
+  name:           'Della Preston'
+  url:            http://hoverbear.github.io/many_generous_hands
+
+paginate:         5
